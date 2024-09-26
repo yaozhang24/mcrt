@@ -1,2 +1,2 @@
-# mcrts
+# MCRT
 Multiple conditional randomization tests
